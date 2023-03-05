@@ -5,6 +5,7 @@
 Дополнительно реализовано:  
   - Пагинация  
   - Жест Swipe-to-Refresh  
+  - Экраны ошибки и загарузки
   
 <img src="https://github.com/ilpol/searchGifs/blob/main/appDemo1.png" width="300">
 <img src="https://github.com/ilpol/searchGifs/blob/main/appDemo2.png" width="300">
