@@ -44,7 +44,7 @@ class gifListFragment : Fragment() {
 
     var curOffset = 0
     val limit = 10
-    var maxOffset = 10
+    var maxOffset = 25
 
     var isPageLoading = false
 
